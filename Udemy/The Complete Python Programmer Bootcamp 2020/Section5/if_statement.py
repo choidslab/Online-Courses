@@ -32,6 +32,13 @@ print(len(my_string))
 # string indexing
 print(my_string[0])
 
+# minus indexing
+print(my_string[-1]) # last character
+
 # string slicing
 print(my_string[0:4])
 print(my_string[:4])
+
+# upper(), lower()
+print(my_string.upper())
+print(my_string.lower())
