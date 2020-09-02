@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Sep  2 14:07:11 2020
-
 @author: TimChoi
 """
 
@@ -21,7 +20,7 @@ Created on Wed Sep  2 14:07:11 2020
 # for i in range(0, 101, 4):
 #     print(i, end=' ')
 
-word = 'python'
+# word = 'python'
 
-for char in word:
-    print(char)
+# for char in word:
+#     print(char)
