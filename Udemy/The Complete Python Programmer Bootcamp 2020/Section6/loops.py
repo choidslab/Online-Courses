@@ -39,14 +39,14 @@ Created on Wed Sep  2 14:07:11 2020
 
 # print('The ages are', ages)
 
-count = 0
-class_names = []
+# count = 0
+# class_names = []
 
-name = input('Please enter name type n to stop: ')
-while name != 'n':
-    count += 1
-    class_names.append(name)
-    print(f'{name} has been added.')
-    name = input('Next name?: ')
+# name = input('Please enter name type n to stop: ')
+# while name != 'n':
+#     count += 1
+#     class_names.append(name)
+#     print(f'{name} has been added.')
+#     name = input('Next name?: ')
 
-print(f'There are {count} people in the class, they are {class_names}')
+# print(f'There are {count} people in the class, they are {class_names}')
